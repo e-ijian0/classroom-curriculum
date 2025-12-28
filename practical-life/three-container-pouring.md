@@ -32,6 +32,7 @@
 ### Variation (Advanced)
 - Add a fourth empty container and create a longer sequence (A→B→C→D→A).
 - Use different colored water in each pitcher and ask the child to keep the colors in order.
+- Introduce basic math concepts by adding a small measuring cup or marking measurement lines on the containers. The child can measure a specific volume (e.g., 100 ml) in each pitcher, exploring capacity, fractions, and quantitative comparison.
 
 ## Points of Interest
 - The sound of water flowing from one pitcher to another.
